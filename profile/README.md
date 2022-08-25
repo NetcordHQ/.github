@@ -1,4 +1,4 @@
-# Netcord HQ
+# 🏡 Netcord HQ
 > Netcord is where you'll find new articles about your favourite Discord, Design, and Community topics at one place. Netcord brings you freshly brewed articles everyday.
 
 [<img src='https://netcord.site/content/images/2022/07/Netcord-Logo-1.png' style='width: 20px;'/> Website](https://netcord.site/) • 
